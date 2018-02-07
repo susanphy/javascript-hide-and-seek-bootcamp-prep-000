@@ -1,4 +1,4 @@
 function getFirstSelector(selector) {
-document.querySelector(nested.selector);
+document.querySelector();
   return selector
 }

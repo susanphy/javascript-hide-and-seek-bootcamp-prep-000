@@ -1,4 +1,4 @@
 function getFirstSelector(selector) {
-document.querySelector('div').id;
+document.querySelector('main').id;
   return selector
 }
